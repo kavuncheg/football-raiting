@@ -2,7 +2,7 @@
 
 class Rating
 {
-  public $filePath = './../reit.csv';
+  public $filePath = './../../reit.csv';
   public $rait = [];
   public $users = [];
   public $filter = ['Андрей', 'Роман', 'Гена', 'Кавун', 'Олег'];
